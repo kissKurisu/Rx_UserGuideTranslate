@@ -43,7 +43,6 @@
 - 全局设置
 - 结束区域 ~~（不知道怎么翻译）~~
 
-
 ![Web Sample](http://p6g5m4isy.bkt.clouddn.com/image/layout/004-product-samples-web.png)
 
 ### Web端样例 
@@ -140,22 +139,22 @@ Ranorex Studio的一个项目是基于文件的并且使用和Microsoft Visual S
 
 当在工程视图或是模块浏览器视图中双击打开一个文件或是模块时，与之关联的文件将在Studio的文件视图中打开，这个视图主要用来下图中的操作
 
-- Creating or adapting a recording module  
+- 创建或调整录制模块  
   ![Craeating or adapting a recording module](http://p6g5m4isy.bkt.clouddn.com/image/layout/009-Recording-with-Repository.png-blackWM)
 
-- Working with the repository
+- 使用控件库
   ![Working with the repository](http://p6g5m4isy.bkt.clouddn.com/image/layout/010-Repository.png-blackWM)
 
-- Working with the project's module groups
+- 使用项目的模块组
   ![Working with the project's module groups](http://p6g5m4isy.bkt.clouddn.com/image/layout/011-Module-Groups.png-blackWM)
 
-- Writing code modules
+- 写代码模块
   ![Writing code modules](http://p6g5m4isy.bkt.clouddn.com/image/layout/012-Code-Module.png-blackWM)
 
-- Viewing a test report
+- 阅读一份测试报告
   ![Viewing a test report](http://p6g5m4isy.bkt.clouddn.com/image/layout/013-viewing-a-test-report.png-blackWM)
 
-- Working with the project's test suite
+- 使用项目的测试套件
   ![Working with the project's test suite](http://p6g5m4isy.bkt.clouddn.com/image/layout/014-working-with-the-test-suite.png-blackWM)
 
 
