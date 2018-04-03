@@ -41,7 +41,7 @@
 - 嵌套测试用例
 - 模块组
 - 全局设置
-- 结束区域 ~~（不知道怎么翻译）~~
+- 结束区域
 
 ![Web Sample](https://raw.githubusercontent.com/taylortaurus/Rx_PicBed/master/compress/004-product-samples-web.png)
 
