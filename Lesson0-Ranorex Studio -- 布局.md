@@ -43,7 +43,7 @@
 - 全局设置
 - 结束区域 ~~（不知道怎么翻译）~~
 
-![Web Sample](http://p6g5m4isy.bkt.clouddn.com/image/layout/004-product-samples-web.png)
+![Web Sample](https://raw.githubusercontent.com/taylortaurus/Rx_PicBed/master/compress/004-product-samples-web.png)
 
 ### Web端样例 
 
